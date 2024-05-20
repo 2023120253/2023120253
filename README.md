@@ -8,7 +8,7 @@ This GitHub account is dedicated to showcasing the projects and assignments I co
 - 📚 **Major:** Software Engineering
 - 🎓 **University:** ***
 - 🌱 **I’m currently learning:** Advanced algorithms, system design, and web development
-- 📫 **How to reach me:** [solightyu@foxma.com]
+- 📫 **How to reach me:** [solightyu@foxmail.com]
 
 ## My Goals
 
